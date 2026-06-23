@@ -145,37 +145,37 @@ This project provided valuable experience in:
 
 ### Login Page
 
-<img src="screenshots/login.jpg" height="400">
+<img src="screenshots/login.jpg" height="500">
 
 ---
 
 ### Home Page
 
-![Dashbaord](screenshots/home.jpg)
+<img src="screenshots/home.jpg" height="500">
 
 ---
 
 ### Event Information
 
-![Dashbaord](screenshots/event-information.jpg)
+<img src="screenshots/event-information.jpg" height="500">
 
 ---
 
 ### RSVP Form
 
-![Dashbaord](screenshots/rsvp.jpg)
+<img src="screenshots/rsvp.jpg" height="500">
 
 ---
 
 ### Navigation Menu
 
-![Dashbaord](screenshots/navigation.jpg)
+<img src="screenshots/navigation.jpg" height="500">
 
 ---
 
 ### Event Management
 
-![Dashbaord](screenshots/event-management.jpg)
+<img src="screenshots/event-management.jpg" height="500">
 
 ---
 
