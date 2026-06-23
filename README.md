@@ -145,7 +145,7 @@ This project provided valuable experience in:
 
 ### Login Page
 
-![Dashbaord](screenshots/login.jpg)
+<img src="screenshots/login.jpg" width="800">
 
 ---
 
