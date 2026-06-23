@@ -145,7 +145,7 @@ This project provided valuable experience in:
 
 ### Login Page
 
-<img src="screenshots/login.jpg" width="800">
+<img src="screenshots/login.jpg" max-height="200;">
 
 ---
 
